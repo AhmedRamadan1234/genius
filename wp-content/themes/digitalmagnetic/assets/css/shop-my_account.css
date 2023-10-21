@@ -1,0 +1,9 @@
+.woocommerce form .password-input,
+.woocommerce-page form .password-input {
+    width: 100%;
+}
+.woocommerce .woocommerce-form-login .form-row,
+.woocommerce .woocommerce-form-login .woocommerce-form-login__rememberme{
+    display: block;
+}
+

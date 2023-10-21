@@ -1,0 +1,23 @@
+/**=== Blog Single Post Quote Author Name ===**/
+.blog_single_quote_author_name {
+    color: #fff;
+    font-weight: 600;
+    font-size: 18px;
+}
+.portfolio_info_area .wp-block-column ul {
+    list-style: none;
+    padding: 0;
+}
+
+.portfolio_info_area .details_item {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.portfolio_s_col_contents{
+    padding-left: 38px;
+}
+
+.wp-block-spacer + .wp-block-columns .wp-block-column + .wp-block-column {
+    padding-left: 38px;
+}

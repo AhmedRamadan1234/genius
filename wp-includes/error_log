@@ -1,0 +1,4 @@
+[18-Oct-2023 23:37:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Walker' not found in /home/fotcxttio3c2/public_html/wp-includes/class-walker-page-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/fotcxttio3c2/public_html/wp-includes/class-walker-page-dropdown.php on line 17

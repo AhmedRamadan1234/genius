@@ -1,0 +1,64 @@
+----- 1.0.8 (26 July 2020) -----
+New: Child Theme included
+Tweaked: Carousel Pages - Option for Auto Scrolling Feature
+Tweaked: More social icons in The Theme Settings
+Tweaked: Reduce theme file size
+Updated: Demo Contents
+Updated: Wavee Core plugin to 1.0.8
+
+----- 1.0.7 (05 July 2020) -----
+New: Home Split Color Option
+Fixed: Masonry Portfolio
+Fixed: Fullscreen Carousel Slider
+Fixed: Horizontal Carousel Slider
+Fixed: Creative Carousel Slider
+Updated: Demo Contents
+Updated: Wavee Core plugin to 1.0.7
+
+
+
+----- 1.0.6 (29 June 2020) -----
+New: Creative Carousel Homepage
+New: Fullscreen Carousel Homepage
+New: Horizontal Carousel Homepage
+New: Masonry Portfolio Homepage
+New: Overlay Menu style form page options
+New: Menu Settings (under page options)
+Updated: Demo Contents
+Updated: Wavee Core plugin to 1.0.6
+
+
+
+----- 1.0.4 (21 May 2020) -----
+New: WooCommerce support
+New: Title Bar Settings (under Theme Settings > Header Settings > Title-bar)
+Fixed: Portfolio banner Style theme settings
+Fixed: Header Styling settings
+Fixed: Portfolio banner settings form page Option
+Updated: Language file (.pot file)
+Updated: Demo Contents
+Updated: Wavee Core plugin to 1.0.4
+
+
+----- 1.0.3 (29 May 2020) -----
+New: Demo Content (One-page)
+New: Menu Settings (under Theme Settings > Menu Settings)
+New: Overlay Menu settings (under Theme Settings > Menu Settings)
+Fixed: Header Content Show/Hide option.
+Fixed: Portfolio layout style fixed form theme settings
+Updated: Advanced Custom Fields-pro to Version 5.8.11
+
+
+----- 1.0.2 (21 May 2020) -----
+New: RTL Support
+New: One-Page
+Tweaked: Hero (style-02) featured images position.
+
+----- 1.0.1 (10 May 2020) -----
+Added: Setting for turning on or off the preloader.
+
+----- 1.0.0 (2 May 2020) -----
+Added: Split Screen home
+
+----- 0.1.3 (1 May 2020) -----
+Initial release
